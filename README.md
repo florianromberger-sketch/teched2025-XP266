@@ -17,42 +17,42 @@ To complete the exercises in this repository, please make sure that you meet the
 
 ## Exercises
 
-### Exercise 0 - Preparation Steps
+* ### Exercise 0 - Preparation Steps
 
-- [Exercice 0.1 - Getting Started](exercises/ex0#Getting-Started)
-- [Exercice 0.2 - (Optional) Create a GitHub account](exercises/ex0#Exercice-0.2---(Optional)-Create-a-GitHub-account)
-- [Exercice 0.3 - Create a Copy of This Repository](exercises/ex0#Exercice-0.3---Create-a-Copy-of-This-Repository)
-- [Exercice 0.4 - Login to your BTP subaccount](exercises/ex0#Exercice-0.4---Login-to-your-BTP-subaccount)
+  * [Exercice 0.0 - Getting Started](exercises/ex0#Getting-Started)
+  * [Exercice 0.1 - (Optional) Create a GitHub account](exercises/ex0#Exercice-0.2---(Optional)-Create-a-GitHub-account)
+  * [Exercice 0.2 - Create a Copy of This Repository](exercises/ex0#Exercice-0.3---Create-a-Copy-of-This-Repository)
+  * [Exercice 0. - Login to your BTP subaccount](exercises/ex0#Exercice-0.4---Login-to-your-BTP-subaccount)
 
-#### Exercise 1 - Set up your Delivery Pipeline and Transport Landscape
-- [Exercise 1.1 - Add Your Repository in SAP CI CD Service](exercises/ex1#Exercise-1.1---Add-Your-Repository-in-SAP-CI-CD-Service)
-- [Exercise 1.2 - Create a Webhook](exercises/ex1#Exercise-1.2---Create-a-Webhook)
-- [Exercise 1.3 - Create a Pipeline Job](exercises/ex1#Exercise-1.3---Create-a-Pipeline-Job)
-- [Exercise 1.4 - Configure the Release Step](exercises/ex1#Exercise-1.4--Configure-the-Release-Step)
-- [Exercise 1.5 - Create Transport Landscape in SAP Cloud Transport Management Service](exercises/ex1#Exercise-1.5---Create-Transport-Landscape-in-SAP-Cloud-Transport-Management-Service)
+* #### Exercise 1 - Set up your Delivery Pipeline and Transport Landscape
+  * [Exercise 1.0 - Add Your Repository in SAP CI CD Service](exercises/ex1#Exercise-1.1---Add-Your-Repository-in-SAP-CI-CD-Service)
+  * [Exercise 1.1 - Create a Webhook](exercises/ex1#Exercise-1.2---Create-a-Webhook)
+  * [Exercise 1.2 - Create a Pipeline Job](exercises/ex1#Exercise-1.3---Create-a-Pipeline-Job)
+  * [Exercise 1.3 - Configure the Release Step](exercises/ex1#Exercise-1.4--Configure-the-Release-Step)
+  * [Exercise 1.4 - Create Transport Landscape in SAP Cloud Transport Management Service](exercises/ex1#Exercise-1.5---Create-Transport-Landscape-in-SAP-Cloud-Transport-Management-Service)
 
 * #### [Exercise 2 - Maintain your Feature in Cloud ALM](exercises/ex2#Exercise-2---Maintain-your-Feature-in-Cloud-ALM)
-** [Exercise 2.0 - Check your Cloud ALM and cTMS configuration](exercises/ex2#Exercise-2.1---CCheck-your-Cloud-ALM-and-cTMS-configuration)
-** [Exercice 2.1 - Create a new Feature](exercises/ex2#Exercise-2.2---Create-a-new-Feature)
+  * [Exercise 2.0 - Check your Cloud ALM and cTMS configuration](exercises/ex2#Exercise-2.1---CCheck-your-Cloud-ALM-and-cTMS-configuration)
+  * [Exercice 2.1 - Create a new Feature](exercises/ex2#Exercise-2.2---Create-a-new-Feature)
 
-#### Exercise 3 - Develop your pro-code application
-- [Exercise 3.1 - Create a new Development Project in SAP Build](exercises/ex3#Exercise-3.1---Create-a-new-Development-Project-in-SAP-Build)
-- [Exercise 3.2 - Use SAP Business Applicaiton Studio and Joule and improve your application](exercises/ex3#Exercise-3.2---Use-SAP-Business-Applicaiton-Studio-and-Joule-and-improve-your-Application)
-- [Exercise 3.3 - Release your Changes to GitHub](exercises/ex3#Exercise-3.3---Release-your-Changes-to-GitHub)
+* #### Exercise 3 - Develop your pro-code application
+  * [Exercise 3.0 - Create a new Development Project in SAP Build](exercises/ex3#Exercise-3.1---Create-a-new-Development-Project-in-SAP-Build)
+  * [Exercise 3.1 - Use SAP Business Applicaiton Studio and Joule and improve your application](exercises/ex3#Exercise-3.2---Use-SAP-Business-Applicaiton-Studio-and-Joule-and-improve-your-Application)
+  * [Exercise 3.2 - Release your Changes to GitHub](exercises/ex3#Exercise-3.3---Release-your-Changes-to-GitHub)
 
-#### Exercise 4 - Transport your low-code application
-- [Exercise 4.1 - Setup SAP Content Agent Service](exercises/ex4#Exercise-4.1---Setup-SAP-Content-Agent-Service)
-- [Exercise 4.2 - Check your application in mobile services](exercises/ex4#Exercise-4.2---Check-your-application-in-mobile-services)
-- [Exercise 4.3 - Create and send a Transport Request in SAP Content Agent Service UI](exercises/ex4#Exercise-4.3---Create-and-send-a-Transport-Request-in-SAP-Content-Agent-Service-UI)
+* #### Exercise 4 - Transport your low-code application
+  * [Exercise 4.0 - Setup SAP Content Agent Service](exercises/ex4#Exercise-4.1---Setup-SAP-Content-Agent-Service)
+  * [Exercise 4.1 - Check your application in mobile services](exercises/ex4#Exercise-4.2---Check-your-application-in-mobile-services)
+  * [Exercise 4.2 - Create and send a Transport Request in SAP Content Agent Service UI](exercises/ex4#Exercise-4.3---Create-and-send-a-Transport-Request-in-SAP-Content-Agent-Service-UI)
 
-#### Exercise 5 - Verify all Release Steps
-- [Exercise 5.1 - Check the Pipeline Job Status](exercises/ex5#Exercise-5.1---Check-the-Pipeline-Job-Status)
-- [Exercise 5.2 - Verify Transports created in SAP Cloud Transport Management](exercises/ex5#Exercise-5.2---Verify-Transports-created-in-SAP-Cloud-Transport-Management)
+* #### Exercise 5 - Verify all Release Steps
+  * [Exercise 5.0 - Check the Pipeline Job Status](exercises/ex5#Exercise-5.1---Check-the-Pipeline-Job-Status)
+  * [Exercise 5.1 - Verify Transports created in SAP Cloud Transport Management](exercises/ex5#Exercise-5.2---Verify-Transports-created-in-SAP-Cloud-Transport-Management)
 
-#### Exercise 6 - Manage your Feature in Cloud ALM & Deployment
-- [Exercise 6.1 - Manage the lifefcylce of your feature](exercises/ex6#Exercise-6.1---Manage-the-lifefcylce-of-your-feature)
-- [Exercise 6.2 - Deploy and monitor changes in your QA and Prod environment](exercises/ex6#Exercise-6.2---Deploy-and-monitor-changes-in-your-QA-and-Prod-environment)
-- [Exersice 6.3 - Find and access the deployed applications](exercises/ex6#Exercise-6.3---Find-and-access-the-deployed-applications)
+* #### Exercise 6 - Manage your Feature in Cloud ALM & Deployment
+  * [Exercise 6.0 - Manage the lifefcylce of your feature](exercises/ex6#Exercise-6.1---Manage-the-lifefcylce-of-your-feature)
+  * [Exercise 6.1 - Deploy and monitor changes in your QA and Prod environment](exercises/ex6#Exercise-6.2---Deploy-and-monitor-changes-in-your-QA-and-Prod-environment)
+  * [Exersice 6.2 - Find and access the deployed applications](exercises/ex6#Exercise-6.3---Find-and-access-the-deployed-applications)
 
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
