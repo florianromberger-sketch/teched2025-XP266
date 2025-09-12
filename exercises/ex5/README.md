@@ -19,11 +19,11 @@ In this exercise, we will verify the pipeline job status covering the different 
 5. In the log file search for "createdTransportRequestId".
 
     <br>![alt text](images/transport_id_log.png)
-6. This transport should be available in your CTMS tenant.
+6. This transport will be available in your SAP Cloud Transport Management tenant.
 
 ## Exercise 5.1 - Verify Transports created in SAP Cloud Transport Management
 
-1. Open [Cloud Transport Management service](https://xp266-central000-aoh299xc.ts.cfapps.eu10.hana.ondemand.com/main/webapp/index.html).
+1. Open [SAP Cloud Transport Management service](https://xp266-central000-aoh299xc.ts.cfapps.eu10.hana.ondemand.com/main/webapp/index.html).
 2. Go to Transport Nodes.
 
     <br>![alt text](images/transport_nodes.png)
@@ -36,6 +36,6 @@ In this exercise, we will verify the pipeline job status covering the different 
 
 ## Summary
 
-You've now verified the pipeline and release steps. Furthermore, you know the transport is available in Cloud Transport Management for your delivery to QA and Production.
+You've now verified the pipeline and release steps. Furthermore, you know the transport is available in SAP Cloud Transport Management for your delivery to Quality Assurance and Production.
 
 Continue with [Manage your Feature in Cloud ALM & Deployment](../ex6/README.md)
