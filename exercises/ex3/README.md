@@ -23,7 +23,7 @@ In this exercise, we will create a new development project in SAP Build based on
 
 Now that your SAP Build project has been created, you can start development.
 
-1. In your project **CAP-BOOKSHOP_WDI5**, go to **db** > **data** > **sap.capire.bookshop-Books.csv**
+1. In your project **CAP-BOOKSHOP_WDI5**, go to **db** > **data** > **sap.capire.bookshop-Books.csv**.
         <br>![](../ex3/images/bas_add_content.png)
 2. Add addtional entries:
 ```js
@@ -38,13 +38,13 @@ Now that we have added some changes, the next steps will be to release them to o
 
 1. In Business Application Studio, open the **Source Control** on the side panel, which has now one pending change.
         <br>![](../ex3/images/bas_sidebar.png)
-2. Add a message describing your change e.g. ``Additional books sample data``
-3. Click **Commit** and **Sync Changes**
+2. Add a message describing your change e.g. ``Additional books sample data``.
+3. Click **Commit** and **Sync Changes**.
         <br>![](../ex3/images/bas_commit_changes.png)
-4. In the popup confirm the push to the main branch
+4. In the popup confirm the push to the main branch.
 5. At this point you need to allow Business Application Studio to push changes to your repository. Follow the steps as displayed until all configuration is set.
         <br>![](../ex3/images/bas_git_confirmation.png)
-6. Back Business Application Studio save your credentials for this session only.
+6. Back in the Business Application Studio save your credentials for this session only.
 7. Push your changes to git.
         <br>![](../ex3/images/bas_push_changes.png)
 8. Your code changes been now added to Git Repository.
